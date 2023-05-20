@@ -1,6 +1,0 @@
-# README
-
-The business site for greenfeldplanning.com
-
-<img src="assets/vector-website-under-construction.jpg"
-  height="100%" width="100%" alt="Under Construction">
